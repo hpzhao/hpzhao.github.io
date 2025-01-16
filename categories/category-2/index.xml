@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Category 2 on Huaipeng&#39;s Blog</title>
+    <link>http://localhost:1313/categories/category-2/</link>
+    <description>Recent content in Category 2 on Huaipeng&#39;s Blog</description>
+    <generator>Hugo -- 0.139.3</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2025 16:14:11 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/category-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AICon2024(北京)参会总结</title>
+      <link>http://localhost:1313/posts/aicon2024-%E5%8C%97%E4%BA%AC/</link>
+      <pubDate>Thu, 16 Jan 2025 16:14:11 +0800</pubDate>
+      <guid>http://localhost:1313/posts/aicon2024-%E5%8C%97%E4%BA%AC/</guid>
+      <description>&lt;p&gt;资料参考自AICon2024、《艾瑞咨询：2023年中国AIGC产业全景报告》、《艾瑞咨询：2023年中国人工智能产业研究报告》&lt;/p&gt;
+&lt;h1 id=&#34;1-参会感受&#34;&gt;1. 参会感受&lt;/h1&gt;
+&lt;p&gt;大模型技术更新速度大于商业决策速度！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

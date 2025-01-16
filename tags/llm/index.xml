@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>LLM on Huaipeng&#39;s Blog</title>
+    <link>https://hpzhao.github.io/tags/llm/</link>
+    <description>Recent content in LLM on Huaipeng&#39;s Blog</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2025 16:14:11 +0800</lastBuildDate>
+    <atom:link href="https://hpzhao.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AICon2024(北京)参会总结</title>
+      <link>https://hpzhao.github.io/posts/aicon2024-%E5%8C%97%E4%BA%AC/</link>
+      <pubDate>Thu, 16 Jan 2025 16:14:11 +0800</pubDate>
+      <guid>https://hpzhao.github.io/posts/aicon2024-%E5%8C%97%E4%BA%AC/</guid>
+      <description>&lt;h1 id=&#34;1-参会感受&#34;&gt;1. 参会感受&lt;/h1&gt;
+&lt;p&gt;大模型技术更新速度大于商业决策速度！&lt;/p&gt;
+&lt;p&gt;大模型技术更新速度大于评测能力建设速度！&lt;/p&gt;
+&lt;p&gt;底层技术和商业应用百花齐放，资本市场活跃！&lt;/p&gt;
+&lt;h1 id=&#34;2-行业洞察&#34;&gt;2. 行业洞察&lt;/h1&gt;
+&lt;h2 id=&#34;21-中国ai发展环境&#34;&gt;2.1. 中国AI发展环境&lt;/h2&gt;
+&lt;h3 id=&#34;211-资本投入&#34;&gt;2.1.1. 资本投入&lt;/h3&gt;
+&lt;p&gt;较去年相比，今年第一季度融资金额远超去年同季度。2023年整体AI领域投资事件39起，融资金额50.7亿元，2024年第一季度，AI领域投资事件13起，融资金额74.9亿元。融资轮次处于早期融资。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

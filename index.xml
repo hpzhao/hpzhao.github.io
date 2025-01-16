@@ -1,26 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>ExampleSite</title>
+    <title>Huaipeng&#39;s Blog</title>
     <link>https://hpzhao.github.io/</link>
-    <description>Recent content on ExampleSite</description>
-    <image>
-      <title>ExampleSite</title>
-      <url>https://hpzhao.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://hpzhao.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
-    <generator>Hugo -- 0.139.4</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 10 Dec 2024 12:57:03 +0800</lastBuildDate>
+    <description>Recent content on Huaipeng&#39;s Blog</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Jan 2025 16:14:11 +0800</lastBuildDate>
     <atom:link href="https://hpzhao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://hpzhao.github.io/posts/my-first-post/</link>
-      <pubDate>Tue, 10 Dec 2024 12:57:03 +0800</pubDate>
-      <guid>https://hpzhao.github.io/posts/my-first-post/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;
-&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
+      <title>AICon2024(北京)参会总结</title>
+      <link>https://hpzhao.github.io/posts/aicon2024-%E5%8C%97%E4%BA%AC/</link>
+      <pubDate>Thu, 16 Jan 2025 16:14:11 +0800</pubDate>
+      <guid>https://hpzhao.github.io/posts/aicon2024-%E5%8C%97%E4%BA%AC/</guid>
+      <description>&lt;h1 id=&#34;1-参会感受&#34;&gt;1. 参会感受&lt;/h1&gt;
+&lt;p&gt;大模型技术更新速度大于商业决策速度！&lt;/p&gt;
+&lt;p&gt;大模型技术更新速度大于评测能力建设速度！&lt;/p&gt;
+&lt;p&gt;底层技术和商业应用百花齐放，资本市场活跃！&lt;/p&gt;
+&lt;h1 id=&#34;2-行业洞察&#34;&gt;2. 行业洞察&lt;/h1&gt;
+&lt;h2 id=&#34;21-中国ai发展环境&#34;&gt;2.1. 中国AI发展环境&lt;/h2&gt;
+&lt;h3 id=&#34;211-资本投入&#34;&gt;2.1.1. 资本投入&lt;/h3&gt;
+&lt;p&gt;较去年相比，今年第一季度融资金额远超去年同季度。2023年整体AI领域投资事件39起，融资金额50.7亿元，2024年第一季度，AI领域投资事件13起，融资金额74.9亿元。融资轮次处于早期融资。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://hpzhao.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hpzhao.github.io/about/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;大学时期个人资料，待更新&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;research-interest&#34;&gt;RESEARCH INTEREST&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Natural Language Processing, Machine Learning, Deep Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;deducation&#34;&gt;DEDUCATION&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;†† M.S., Harbin Institute of Technology&lt;/strong&gt; &lt;em&gt;2016～2018&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;†† B.S., Harbin Institute of Technology&lt;/strong&gt; &lt;em&gt;2012~2016&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;publication&#34;&gt;PUBLICATION&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Yijia Liu, Wanxiang Che, &lt;strong&gt;Huaipeng Zhao&lt;/strong&gt;, Bing Qin, and Ting Liu. 2018. &lt;a href=&#34;http://aclweb.org/anthology/P18-1129&#34;&gt;Distilling Knowledge for Search-based Structured Prediction&lt;/a&gt;. In Proceedings of &lt;em&gt;the 56th Annual Meeting of the Association for Computational Linguistics&lt;/em&gt; (ACL).&lt;/li&gt;
+&lt;li&gt;Yuan J, &lt;strong&gt;Zhao H&lt;/strong&gt;, Zhao Y, et al. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-73618-1_53&#34;&gt;Babbling-The HIT-SCIR System for Emotional Conversation Generation&lt;/a&gt;[C]//National CCF Conference on Natural Language Processing and Chinese Computing. Springer, Cham, 2017: 632-641.&lt;/li&gt;
+&lt;li&gt;Che, W., Guo, J., Wang, Y., Zheng, B., &lt;strong&gt;Zhao, H.&lt;/strong&gt;, Liu, Y., … &amp;amp; Liu, T. (2017). &lt;a href=&#34;http://www.aclweb.org/anthology/K17-3005&#34;&gt;The HIT-SCIR system for end-to-end parsing of universal dependencies&lt;/a&gt;. Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies, 52-62.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;projects&#34;&gt;PROJECTS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;NLP&amp;amp;CC-2017 Shared Task - Emotional Conversation Generation (Rank &lt;strong&gt;2th&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;CoNLL-2017 Shared Task - Universal Dependencies (Rank &lt;strong&gt;4th&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;Chinese Disfluency Detection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;employments&#34;&gt;EMPLOYMENTS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithm Engineer, Alibaba Inc., Search Division. &lt;em&gt;2018.07~Now&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Intern Researcher and Developer, IFLYTEC Inc., HIT·iFLYTEK Language Cognitive Computing Lab (HFL). &lt;em&gt;2016.05~2016.08&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technique&#34;&gt;TECHNIQUE&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Languages: Python, Java, Shell, SQL&lt;/li&gt;
+&lt;li&gt;Experience: PyTorch, TensorFlow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;awards&#34;&gt;AWARDS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The National Scholarship (2013)&lt;/li&gt;
+&lt;li&gt;People scholarship (2013）&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
