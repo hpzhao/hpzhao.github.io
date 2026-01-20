@@ -6,30 +6,67 @@
     <description>Recent content on Huaipeng&#39;s Blog</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jan 2025 16:14:11 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Jun 2025 16:14:11 +0800</lastBuildDate>
     <atom:link href="https://hpzhao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AICon2024(北京)参会总结</title>
+      <title>大模型在推荐领域的应用</title>
+      <link>https://hpzhao.github.io/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9C%A8%E6%8E%A8%E8%8D%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8/</link>
+      <pubDate>Thu, 01 May 2025 00:58:22 +0800</pubDate>
+      <guid>https://hpzhao.github.io/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9C%A8%E6%8E%A8%E8%8D%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8/</guid>
+      <description>&lt;p&gt;本文范式取自参考文献[3]，内容贴近工业界推荐系统。在遵循其分类范式基础上，补充了一些学术届和工业界的相关工作.&lt;/p&gt;
+&lt;h1 id=&#34;1-相关背景&#34;&gt;1. 相关背景&lt;/h1&gt;
+&lt;h2 id=&#34;11-现代推荐系统架构&#34;&gt;1.1. 现代推荐系统架构&lt;/h2&gt;
+&lt;p&gt;推荐系统的核心任务就是在给定一个用户$u \in \mathbb{U}$和上下文$C$的情况下，推荐一批排好序的items:$[i_k]^N_{k=1}$，$\mathcal{i}k \in \mathscr{I}$即：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DeepSeek R1论文解读</title>
+      <link>https://hpzhao.github.io/posts/deepseek-r1%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/</link>
+      <pubDate>Mon, 24 Feb 2025 00:41:49 +0800</pubDate>
+      <guid>https://hpzhao.github.io/posts/deepseek-r1%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB/</guid>
+      <description>&lt;h1 id=&#34;1-背景&#34;&gt;1. 背景&lt;/h1&gt;
+&lt;p&gt;春节期间，DeepSeek爆火出圈，性能在开源和闭源模型中达到顶尖水平，同时显著降低了训练和推断成本，并在推理领域取得重大突破，被誉为开源领域的&amp;quot;ChatGPT时刻&amp;quot;。R1模型是DeepSeek一年来持续探索与积累的成果，体现了&lt;strong&gt;算法&lt;/strong&gt;、&lt;strong&gt;架构&lt;/strong&gt;与&lt;strong&gt;硬件&lt;/strong&gt;的协同设计。本文将重点解析R1模型的核心算法，并简要介绍其基础设施。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AI Con 2024参会总结</title>
       <link>https://hpzhao.github.io/posts/aicon2024-%E5%8C%97%E4%BA%AC/</link>
-      <pubDate>Thu, 16 Jan 2025 16:14:11 +0800</pubDate>
+      <pubDate>Sun, 16 Jun 2024 16:14:11 +0800</pubDate>
       <guid>https://hpzhao.github.io/posts/aicon2024-%E5%8C%97%E4%BA%AC/</guid>
-      <description>&lt;h1 id=&#34;1-参会感受&#34;&gt;1. 参会感受&lt;/h1&gt;
-&lt;p&gt;大模型技术更新速度大于商业决策速度！&lt;/p&gt;
-&lt;p&gt;大模型技术更新速度大于评测能力建设速度！&lt;/p&gt;
-&lt;p&gt;底层技术和商业应用百花齐放，资本市场活跃！&lt;/p&gt;
-&lt;h1 id=&#34;2-行业洞察&#34;&gt;2. 行业洞察&lt;/h1&gt;
-&lt;h2 id=&#34;21-中国ai发展环境&#34;&gt;2.1. 中国AI发展环境&lt;/h2&gt;
-&lt;h3 id=&#34;211-资本投入&#34;&gt;2.1.1. 资本投入&lt;/h3&gt;
-&lt;p&gt;较去年相比，今年第一季度融资金额远超去年同季度。2023年整体AI领域投资事件39起，融资金额50.7亿元，2024年第一季度，AI领域投资事件13起，融资金额74.9亿元。融资轮次处于早期融资。&lt;/p&gt;</description>
+      <description>&lt;p&gt;资料参考自AICon2024、《艾瑞咨询：2023年中国AIGC产业全景报告》、《艾瑞咨询：2023年中国人工智能产业研究报告》&lt;/p&gt;
+&lt;h1 id=&#34;1-参会感受&#34;&gt;1. 参会感受&lt;/h1&gt;
+&lt;p&gt;大模型技术更新速度大于商业决策速度！&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI电商调研</title>
       <link>https://hpzhao.github.io/posts/ai%E7%94%B5%E5%95%86%E8%B0%83%E7%A0%94/</link>
-      <pubDate>Thu, 16 May 2024 17:09:36 +0800</pubDate>
+      <pubDate>Mon, 01 Apr 2024 17:09:36 +0800</pubDate>
       <guid>https://hpzhao.github.io/posts/ai%E7%94%B5%E5%95%86%E8%B0%83%E7%A0%94/</guid>
-      <description>&lt;p&gt;AI电商指借助AI技术，赋能各类型电商与行业模块，通过各类AI相关落地应用，从而对行业产生流量逻辑、用户体验、行业效率等影响价值。&lt;/p&gt;
-&lt;h2 id=&#34;11-从技术到价值&#34;&gt;1.1. 从技术到价值&lt;/h2&gt;
-&lt;p&gt;&lt;img alt=&#34;img&#34; loading=&#34;lazy&#34; src=&#34;https://hpzhao.github.io/img/1726119620296-02135235-40a8-41ed-b868-35f0aaa2b76c.png&#34;&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;1-ai电商概述&#34;&gt;1. AI电商概述&lt;/h1&gt;
+&lt;p&gt;AI电商指借助AI技术，赋能各类型电商与行业模块，通过各类AI相关落地应用，从而对行业产生流量逻辑、用户体验、行业效率等影响价值。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>对话技术调研</title>
+      <link>https://hpzhao.github.io/posts/%E5%AF%B9%E8%AF%9D%E6%8A%80%E6%9C%AF%E8%B0%83%E7%A0%94/</link>
+      <pubDate>Thu, 21 Mar 2024 00:51:39 +0800</pubDate>
+      <guid>https://hpzhao.github.io/posts/%E5%AF%B9%E8%AF%9D%E6%8A%80%E6%9C%AF%E8%B0%83%E7%A0%94/</guid>
+      <description>&lt;h1 id=&#34;1-相关背景&#34;&gt;1. 相关背景&lt;/h1&gt;
+&lt;h2 id=&#34;11-对话系统的定义&#34;&gt;1.1. 对话系统的定义&lt;/h2&gt;
+&lt;p&gt;对话系统(Dialogue System，有时也称ChatBot)是人机交互技术(Human Computer Interaction, &lt;strong&gt;HCI&lt;/strong&gt;)的核心领域，旨在最大限度地模仿人与人之间的对话方式，使得人类能够用更自然的方式和机器进行交流，帮助人类完成任务、获取信息、情感陪伴等。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>大模型Agent调研</title>
+      <link>https://hpzhao.github.io/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8Bagent/</link>
+      <pubDate>Sun, 10 Dec 2023 00:55:09 +0800</pubDate>
+      <guid>https://hpzhao.github.io/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8Bagent/</guid>
+      <description>&lt;p&gt;在过去的一年中，大模型领域呈现出了迅猛的发展态势，相关文献数量庞大。这给希望了解该领域的同学带来困扰：直接深入研读众多论文比较耗费精力，而综述文章则可能缺乏必要的细节。在此背景下，希望在自我学习的过程中能够总结出一些核心要点，与大家共同学习。鉴于个人的精力和能力均有限，如有错误或疏漏，还望不吝赐教。文中大量观点和图表都出自最后的参考文献，因内容较多，不在原文一一标注出来了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>大模型架构</title>
+      <link>https://hpzhao.github.io/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/</link>
+      <pubDate>Fri, 20 Oct 2023 01:03:53 +0800</pubDate>
+      <guid>https://hpzhao.github.io/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/</guid>
+      <description>&lt;h1 id=&#34;1-nlp发展历程与模型架构&#34;&gt;1. NLP发展历程与模型架构&lt;/h1&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;img src=&#34;https://hpzhao.github.io/img/1701143310613-4745c04a-1690-474a-8242-d98d0d54b07f.png&#34; alt=&#34;img&#34; style=&#34;zoom: 40%;&#34; /&gt;&lt;/div&gt;
+&lt;p&gt;NLP的发展渐趋于统一化：在深度学习时代到来之前，NLP任务高度依赖于手工设计的复杂特征。随后，深度学习的出现极大地减轻了这种特征工程的负担。以BERT和GPT-1为代表的预训练和微调范式，标志着手工特征设计时代的终结。大模型的出现宣告了NLP中间任务的消亡，所有任务都可以统一到语言模型的范畴中。&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
