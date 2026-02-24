@@ -4,10 +4,17 @@
     <title>Huaipeng&#39;s Blog</title>
     <link>https://hpzhao.github.io/</link>
     <description>Recent content on Huaipeng&#39;s Blog</description>
-    <generator>Hugo -- 0.155.1</generator>
+    <generator>Hugo -- 0.156.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Jun 2025 16:14:11 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 22:43:15 +0800</lastBuildDate>
     <atom:link href="https://hpzhao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AAAI-26 Oral论文ShoppingBench分享</title>
+      <link>https://hpzhao.github.io/posts/shoppingbench%E8%AE%BA%E6%96%87/</link>
+      <pubDate>Tue, 24 Feb 2026 22:43:15 +0800</pubDate>
+      <guid>https://hpzhao.github.io/posts/shoppingbench%E8%AE%BA%E6%96%87/</guid>
+      <description>&lt;p&gt;本文分享我们在电商领域智能体（Agent）方向所提出的综合性评估与训练框架。该框架通过构建电商虚拟环境、可扩展数据合成以及工具调用轨迹的蒸馏和强化学习等，赋予了Agent模拟真实用户的能力，擅长自动化地完成用券凑单、预算管理、特定卖家搜索等核心电商交互任务。根据该项工作总结的论文已被AAAI&#39;26 录用为Oral，并在面向买家的对话式导购助手——LazzieChat中落地应用。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>大模型在推荐领域的应用</title>
       <link>https://hpzhao.github.io/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%9C%A8%E6%8E%A8%E8%8D%90%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8/</link>
