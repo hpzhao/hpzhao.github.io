@@ -64,7 +64,7 @@
       <pubDate>Fri, 20 Oct 2023 01:03:53 +0800</pubDate>
       <guid>https://hpzhao.github.io/posts/%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%9E%84/</guid>
       <description>&lt;h1 id=&#34;1-nlp发展历程与模型架构&#34;&gt;1. NLP发展历程与模型架构&lt;/h1&gt;
-&lt;div align=&#34;center&#34;&gt;&lt;img src=&#34;https://hpzhao.github.io/img/1701143310613-4745c04a-1690-474a-8242-d98d0d54b07f.png&#34; alt=&#34;img&#34; style=&#34;zoom: 40%;&#34; /&gt;&lt;/div&gt;
+&lt;div align=&#34;center&#34;&gt;&lt;img src=&#34;https://hpzhao.github.io/img/624348a963d6685d3757f3f7f70f2b80.png&#34; alt=&#34;img&#34; style=&#34;zoom: 40%;&#34; /&gt;&lt;/div&gt;
 &lt;p&gt;NLP的发展渐趋于统一化：在深度学习时代到来之前，NLP任务高度依赖于手工设计的复杂特征。随后，深度学习的出现极大地减轻了这种特征工程的负担。以BERT和GPT-1为代表的预训练和微调范式，标志着手工特征设计时代的终结。大模型的出现宣告了NLP中间任务的消亡，所有任务都可以统一到语言模型的范畴中。&lt;/p&gt;</description>
     </item>
     <item>
