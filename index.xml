@@ -6,8 +6,53 @@
     <description>Recent content on Huaipeng&#39;s Blog</description>
     <generator>Hugo -- 0.157.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jan 2026 22:43:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 00:47:38 +0800</lastBuildDate>
     <atom:link href="https://hpzhao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://hpzhao.github.io/about/</link>
+      <pubDate>Mon, 09 Mar 2026 00:47:38 +0800</pubDate>
+      <guid>https://hpzhao.github.io/about/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;大学时期个人资料，待更新&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;research-interest&#34;&gt;RESEARCH INTEREST&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Natural Language Processing, Machine Learning, Deep Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;deducation&#34;&gt;DEDUCATION&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;†† M.S., Harbin Institute of Technology&lt;/strong&gt; &lt;em&gt;2016～2018&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;†† B.S., Harbin Institute of Technology&lt;/strong&gt; &lt;em&gt;2012~2016&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;publication&#34;&gt;PUBLICATION&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Yijia Liu, Wanxiang Che, &lt;strong&gt;Huaipeng Zhao&lt;/strong&gt;, Bing Qin, and Ting Liu. 2018. &lt;a href=&#34;http://aclweb.org/anthology/P18-1129&#34;&gt;Distilling Knowledge for Search-based Structured Prediction&lt;/a&gt;. In Proceedings of &lt;em&gt;the 56th Annual Meeting of the Association for Computational Linguistics&lt;/em&gt; (ACL).&lt;/li&gt;
+&lt;li&gt;Yuan J, &lt;strong&gt;Zhao H&lt;/strong&gt;, Zhao Y, et al. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-73618-1_53&#34;&gt;Babbling-The HIT-SCIR System for Emotional Conversation Generation&lt;/a&gt;[C]//National CCF Conference on Natural Language Processing and Chinese Computing. Springer, Cham, 2017: 632-641.&lt;/li&gt;
+&lt;li&gt;Che, W., Guo, J., Wang, Y., Zheng, B., &lt;strong&gt;Zhao, H.&lt;/strong&gt;, Liu, Y., … &amp;amp; Liu, T. (2017). &lt;a href=&#34;http://www.aclweb.org/anthology/K17-3005&#34;&gt;The HIT-SCIR system for end-to-end parsing of universal dependencies&lt;/a&gt;. Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies, 52-62.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;projects&#34;&gt;PROJECTS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;NLP&amp;amp;CC-2017 Shared Task - Emotional Conversation Generation (Rank &lt;strong&gt;2th&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;CoNLL-2017 Shared Task - Universal Dependencies (Rank &lt;strong&gt;4th&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;Chinese Disfluency Detection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;employments&#34;&gt;EMPLOYMENTS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithm Engineer, Alibaba Inc., Search Division. &lt;em&gt;2018.07~Now&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Intern Researcher and Developer, IFLYTEC Inc., HIT·iFLYTEK Language Cognitive Computing Lab (HFL). &lt;em&gt;2016.05~2016.08&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technique&#34;&gt;TECHNIQUE&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Languages: Python, Java, Shell, SQL&lt;/li&gt;
+&lt;li&gt;Experience: PyTorch, TensorFlow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;awards&#34;&gt;AWARDS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The National Scholarship (2013)&lt;/li&gt;
+&lt;li&gt;People scholarship (2013）&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>AAAI-26论文分享：ShoppingBench</title>
       <link>https://hpzhao.github.io/posts/shoppingbench%E8%AE%BA%E6%96%87/</link>
@@ -74,51 +119,6 @@
       <guid>https://hpzhao.github.io/posts/ai%E7%94%B5%E5%95%86%E8%B0%83%E7%A0%94/</guid>
       <description>&lt;h1 id=&#34;1-ai电商概述&#34;&gt;1. AI电商概述&lt;/h1&gt;
 &lt;p&gt;AI电商指借助AI技术，赋能各类型电商与行业模块，通过各类AI相关落地应用，从而对行业产生流量逻辑、用户体验、行业效率等影响价值。&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://hpzhao.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hpzhao.github.io/about/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;大学时期个人资料，待更新&amp;hellip;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;research-interest&#34;&gt;RESEARCH INTEREST&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Natural Language Processing, Machine Learning, Deep Learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;deducation&#34;&gt;DEDUCATION&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;†† M.S., Harbin Institute of Technology&lt;/strong&gt; &lt;em&gt;2016～2018&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;†† B.S., Harbin Institute of Technology&lt;/strong&gt; &lt;em&gt;2012~2016&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;publication&#34;&gt;PUBLICATION&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Yijia Liu, Wanxiang Che, &lt;strong&gt;Huaipeng Zhao&lt;/strong&gt;, Bing Qin, and Ting Liu. 2018. &lt;a href=&#34;http://aclweb.org/anthology/P18-1129&#34;&gt;Distilling Knowledge for Search-based Structured Prediction&lt;/a&gt;. In Proceedings of &lt;em&gt;the 56th Annual Meeting of the Association for Computational Linguistics&lt;/em&gt; (ACL).&lt;/li&gt;
-&lt;li&gt;Yuan J, &lt;strong&gt;Zhao H&lt;/strong&gt;, Zhao Y, et al. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-73618-1_53&#34;&gt;Babbling-The HIT-SCIR System for Emotional Conversation Generation&lt;/a&gt;[C]//National CCF Conference on Natural Language Processing and Chinese Computing. Springer, Cham, 2017: 632-641.&lt;/li&gt;
-&lt;li&gt;Che, W., Guo, J., Wang, Y., Zheng, B., &lt;strong&gt;Zhao, H.&lt;/strong&gt;, Liu, Y., … &amp;amp; Liu, T. (2017). &lt;a href=&#34;http://www.aclweb.org/anthology/K17-3005&#34;&gt;The HIT-SCIR system for end-to-end parsing of universal dependencies&lt;/a&gt;. Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies, 52-62.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;projects&#34;&gt;PROJECTS&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;NLP&amp;amp;CC-2017 Shared Task - Emotional Conversation Generation (Rank &lt;strong&gt;2th&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;CoNLL-2017 Shared Task - Universal Dependencies (Rank &lt;strong&gt;4th&lt;/strong&gt;)&lt;/li&gt;
-&lt;li&gt;Chinese Disfluency Detection&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;employments&#34;&gt;EMPLOYMENTS&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Algorithm Engineer, Alibaba Inc., Search Division. &lt;em&gt;2018.07~Now&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Intern Researcher and Developer, IFLYTEC Inc., HIT·iFLYTEK Language Cognitive Computing Lab (HFL). &lt;em&gt;2016.05~2016.08&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;technique&#34;&gt;TECHNIQUE&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Programming Languages: Python, Java, Shell, SQL&lt;/li&gt;
-&lt;li&gt;Experience: PyTorch, TensorFlow&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;awards&#34;&gt;AWARDS&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;The National Scholarship (2013)&lt;/li&gt;
-&lt;li&gt;People scholarship (2013）&lt;/li&gt;
-&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

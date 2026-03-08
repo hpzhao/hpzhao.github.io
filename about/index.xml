@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Huaipeng&#39;s Blog</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Huaipeng&#39;s Blog</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;大学时期个人资料，待更新&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;research-interest&#34;&gt;RESEARCH INTEREST&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Natural Language Processing, Machine Learning, Deep Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;deducation&#34;&gt;DEDUCATION&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;†† M.S., Harbin Institute of Technology&lt;/strong&gt; &lt;em&gt;2016～2018&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;†† B.S., Harbin Institute of Technology&lt;/strong&gt; &lt;em&gt;2012~2016&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;publication&#34;&gt;PUBLICATION&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Yijia Liu, Wanxiang Che, &lt;strong&gt;Huaipeng Zhao&lt;/strong&gt;, Bing Qin, and Ting Liu. 2018. &lt;a href=&#34;http://aclweb.org/anthology/P18-1129&#34;&gt;Distilling Knowledge for Search-based Structured Prediction&lt;/a&gt;. In Proceedings of &lt;em&gt;the 56th Annual Meeting of the Association for Computational Linguistics&lt;/em&gt; (ACL).&lt;/li&gt;
+&lt;li&gt;Yuan J, &lt;strong&gt;Zhao H&lt;/strong&gt;, Zhao Y, et al. &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-73618-1_53&#34;&gt;Babbling-The HIT-SCIR System for Emotional Conversation Generation&lt;/a&gt;[C]//National CCF Conference on Natural Language Processing and Chinese Computing. Springer, Cham, 2017: 632-641.&lt;/li&gt;
+&lt;li&gt;Che, W., Guo, J., Wang, Y., Zheng, B., &lt;strong&gt;Zhao, H.&lt;/strong&gt;, Liu, Y., … &amp;amp; Liu, T. (2017). &lt;a href=&#34;http://www.aclweb.org/anthology/K17-3005&#34;&gt;The HIT-SCIR system for end-to-end parsing of universal dependencies&lt;/a&gt;. Proceedings of the CoNLL 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies, 52-62.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;projects&#34;&gt;PROJECTS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;NLP&amp;amp;CC-2017 Shared Task - Emotional Conversation Generation (Rank &lt;strong&gt;2th&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;CoNLL-2017 Shared Task - Universal Dependencies (Rank &lt;strong&gt;4th&lt;/strong&gt;)&lt;/li&gt;
+&lt;li&gt;Chinese Disfluency Detection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;employments&#34;&gt;EMPLOYMENTS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Algorithm Engineer, Alibaba Inc., Search Division. &lt;em&gt;2018.07~Now&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Intern Researcher and Developer, IFLYTEC Inc., HIT·iFLYTEK Language Cognitive Computing Lab (HFL). &lt;em&gt;2016.05~2016.08&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;technique&#34;&gt;TECHNIQUE&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Programming Languages: Python, Java, Shell, SQL&lt;/li&gt;
+&lt;li&gt;Experience: PyTorch, TensorFlow&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;awards&#34;&gt;AWARDS&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;The National Scholarship (2013)&lt;/li&gt;
+&lt;li&gt;People scholarship (2013）&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
